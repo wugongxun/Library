@@ -1,0 +1,29 @@
+
+#mylogo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 37px;
+}
+p{
+    top: 100px;
+    position: absolute;
+}
+#main{
+    width: 1420px;
+    height: 500px;
+    border: solid 2px;
+    top: 135px;
+    left: 50px;
+    position: relative;
+    text-align: center;
+}
+h1 {
+    position: relative;
+    top: 200px;
+}
+#footer{
+    position: relative;
+    top: 150px;
+    text-align: center;
+}

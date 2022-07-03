@@ -1,0 +1,62 @@
+
+#mylogo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 37px;
+}
+p{
+    top: 100px;
+    position: absolute;
+}
+#div1{
+    background: forestgreen;
+    position: absolute;
+    top: 140px;
+    height: 500px;
+    width: 1525px;
+}
+h2{
+    position: absolute;
+    top: 180px;
+    left: 300px;
+    font-size: xx-large;
+}
+#div2{
+    background: white;
+    position: absolute;
+    top: 180px;
+    left: 1000px;
+    width: 400px;
+    height: 430px;
+}
+input{
+    border: 0 none;
+    float: none;
+    font-family: "宋体";
+    font-size: 14px;
+    height: 18px;
+    line-height: 18px;
+    overflow: hidden;
+    padding: 10px 0 10px 10px;
+    width: 200px;
+    border: 1px #e3e3e3 solid;
+}
+#code{
+    width: 80px;
+    height: 30px;
+    top: 10px;
+    position: relative;
+}
+#submit{
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+    left: 100px;
+    position: relative;
+    background: forestgreen;
+}
+.errorMes{
+    color: red;
+    font-size: 14px;
+}

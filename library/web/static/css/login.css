@@ -1,0 +1,65 @@
+
+#mylogo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 37px;
+}
+p{
+    top: 100px;
+    position: absolute;
+}
+#div1{
+    background: forestgreen;
+    position: absolute;
+    top: 140px;
+    height: 500px;
+    width: 1525px;
+}
+h2{
+    position: absolute;
+    top: 180px;
+    left: 300px;
+    font-size: xx-large;
+}
+#div2{
+    position: absolute;
+    top: 220px;
+    left: 1000px;
+    width: 400px;
+    height: 300px;
+    background: white;
+}
+input{
+    border: 0 none;
+    float: none;
+    font-family: "宋体";
+    font-size: 14px;
+    height: 18px;
+    line-height: 18px;
+    overflow: hidden;
+    padding: 10px 0 10px 10px;
+    width: 270px;
+    border: 1px #e3e3e3 solid;
+}
+#title{
+    font-size: x-large;
+    font-weight: bold;
+}
+a{
+    position: relative;
+    left: 200px;
+    color: red;
+}
+#submit{
+    font-size: 15px;
+    background: forestgreen;
+    width: 270px;
+    height: 40px;
+    left: 70px;
+    position: relative;
+}
+#error{
+    color: red;
+    font-size: 14px;
+}

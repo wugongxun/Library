@@ -1,0 +1,64 @@
+
+#mylogo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 37px;
+}
+p{
+    top: 120px;
+    position: absolute;
+}
+h1{
+    font-size: xxx-large;
+    font-family: 宋体;
+    position: absolute;
+    left: 150px;
+    top: 20px;
+}
+#main{
+    border: 1px solid;
+    width: 1300px;
+    height: 500px;
+    position: relative;
+    left: 100px;
+    top: 170px;
+    margin-right: auto;
+    overflow: auto;
+}
+#order{
+    position: absolute;
+    left: 1230px;
+    top: 150px;
+    font-size: larger;
+}
+#return{
+    position: absolute;
+    left: 1320px;
+    top: 150px;
+    font-size: larger;
+}
+td{
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
+table{
+    position: relative;
+    margin: auto;
+    border-collapse: collapse;
+}
+tr{
+    border-bottom: 1px solid #e3e3e3;
+}
+#page{
+    text-align: center;
+    position: absolute;
+    top: 450px;
+    left: 400px;
+    width: 540px;
+}
+#page input{
+    text-align: center;
+    width: 30px;
+}

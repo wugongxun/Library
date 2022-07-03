@@ -1,0 +1,18 @@
+#welcome{
+    position: absolute;
+    top: 70px;
+    left: 1140px;
+    font-size: larger;
+}
+#welcome span{
+    color: red;
+    font-size: xx-large;
+}
+#welcome a{
+    font-size: larger;
+}
+#footer{
+    position: relative;
+    top: 175px;
+    text-align: center;
+}
